@@ -1,5 +1,24 @@
 # SyntheticDataGenerator
 
+This repository contains the code for the following paper:
+Kim, Jungi and Patricia O'Neill-Brown. “Improving American Sign Language Recognition with Synthetic Data.” MTSummit (2019).
+https://www.aclweb.org/anthology/W19-6615/
+
+If you use this for your research work, please cite the following paper:
+```
+@inproceedings{
+    title = "Improving {A}merican Sign Language Recognition with Synthetic Data",
+    author = "Kim, Jungi  and
+      O{'}Neill-Brown, Patricia",
+    booktitle = "Proceedings of Machine Translation Summit XVII Volume 1: Research Track",
+    month = aug,
+    year = "2019",
+    address = "Dublin, Ireland",
+    publisher = "European Association for Machine Translation",
+    url = "https://www.aclweb.org/anthology/W19-6615",
+    pages = "151--161",
+}
+```
 
 ## Dependencies
 *	ImageMagick (version 7 and higher with C++ bindings)
